@@ -7,9 +7,10 @@
 </p>
 
 
-<h2 align="right" id="heading-sobre"> Sobre </h2> 
+<h2 align="left" id="heading-sobre"> Sobre </h2> 
+  <img src="https://serving.photos.photobox.com/39559347927046935f2cee4cbd1141c1f3f96d8c865741244ce959c433b119f9020de5e7.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   <p align="justify"> Formado em Direito e nascido em Minas Gerais, atuei como advogado criminalista desde a minha formação, em 2019. </p>
-  <p align="justify"> Após diversos projetos voluntários realizados e ter feito parte de escritórios tanto em Minas Gerais quanto no Rio de Janeiro, <strong> em 2022 </strong>, dei voz à minha antiga paixão pela tecnologia e <strong> resolvi transacionar de carreira, concluindo  o bootcamp de desenvolvimento web da Le Wagon</strong>, momento no qual tive contato com diversas linguagens, conceitos, funcionalidades, e desafios, dessa nova área. </p>
+  <p align="justify"> Após diversos projetos voluntários realizados e ter feito parte de escritórios tanto em Minas Gerais quanto no Rio de Janeiro, <strong> em 2022 </strong>, dei voz à minha antiga paixão pela tecnologia e<strong> resolvi transacionar de carreira, concluindo  o bootcamp de desenvolvimento web da Le Wagon</strong>, momento no qual tive contato com diversas linguagens, conceitos, funcionalidades, e desafios, dessa nova área. </p>
   <p align="justify"> Nesse momento, procuro uma oportunidade profissional tanto para colocar em prática tais ensinamentos, quanto para ter contato com o ambiente de criação de produtos digitais. </p>
 
 
