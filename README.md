@@ -1,22 +1,37 @@
+<p align="right">
+  <a href="#heading-sobre">| Sobre |</a>
+  <a href="#heading-skills"> Skills |</a>
+  <a href="#heading-projetos"> Projetos |</a>
+  <a href="#heading-educação">Educação |</a>
+  <a href="#heading-experiência">Experiência |</a>
+</p>
 
-<h2 align="right" id="1-this-is-my-header"> ABOUT ME </h2> 
+
+<h2 align="right" id="heading-sobre"> Sobre </h2> 
+  <p align="justify"> Formado em Direito e nascido em Minas Gerais, atuei como advogado criminalista desde a minha formação, em 2019. </p>
+  <p align="justify"> Após diversos projetos voluntários realizados e ter feito parte de escritórios tanto em Minas Gerais quanto no Rio de Janeiro, <strong> em 2022 </strong>, dei voz à minha antiga paixão pela tecnologia e <strong> resolvi transacionar de carreira, concluindo  o bootcamp de desenvolvimento web da Le Wagon</strong>, momento no qual tive contato com diversas linguagens, conceitos, funcionalidades, e desafios, dessa nova área. </p>
+  <p align="justify"> Nesse momento, procuro uma oportunidade profissional tanto para colocar em prática tais ensinamentos, quanto para ter contato com o ambiente de criação de produtos digitais. </p>
+
+
+
+
+<h2 align="right" id="heading-skills"> Skills </h2> 
+<h2 align="right" id="heading-projetos"> Projetos </h2> 
+<h2 align="right" id="heading-educação"> Educação </h2> 
+<h2 align="right" id="heading-experiência"> Experiência </h2> 
+
 
 <a href="#1-this-is-my-header" align="left"> teste </a>
 <br>
 <a href="#linguages" align="right"> teste </a>
 <h3> Olá pessoal! 👋</h3>
 <br>
-
+ <p align="right"> teste <p>
 Meu nome é Ícaro Leon, Full-Stack Web Developer!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="justify"> 
-  Formado em Direito e nascido em Minas Gerais, atuei como advogado criminalista desde a minha formação, em 2019. </p>
 
-<p align="justify"> Após diversos projetos voluntários realizados e ter feito parte de escritórios tanto em Minas Gerais quanto no Rio de Janeiro, <b> em 2022 </b>, dei voz à minha antiga paixão pela tecnologia e <b> resolvi transacionar de carreira, concluindo  o bootcamp de desenvolvimento web da Le Wagon </b>, momento no qual tive contato com diversas linguagens, conceitos,  funcionalidades, e desafios, dessa nova área. </p>
 
-<p align="justify"> Nesse momento, procuro uma oportunidade profissional tanto para colocar em prática tais ensinamentos, quanto para ter contato com o ambiente de criação de produtos digitais. </p>
 </p>
 <h2 align="right" id="linguages"> teste </h2>
 <p align="left">
