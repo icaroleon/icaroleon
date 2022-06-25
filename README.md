@@ -16,6 +16,19 @@
 
 
 <h2 align="right" id="heading-skills"> Skills </h2> 
+
+  <ul>
+  <li> Linguagens: </li>
+    <ul>
+      <li> Ruby </li>
+      <li> Javascript </li>
+    </ul>
+  </ul>
+
+
+
+
+
 <h2 align="right" id="heading-projetos"> Projetos </h2> 
 <h2 align="right" id="heading-educação"> Educação </h2> 
 <h2 align="right" id="heading-experiência"> Experiência </h2> 
