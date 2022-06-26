@@ -7,7 +7,7 @@
 </p>
 
 
-<h2 align="left" id="heading-sobre"> Sobre </h2>
+<h1 align="left" id="heading-sobre"> Sobre </h1>
 <div>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   <p align="justify"> Formado em Direito e nascido em Minas Gerais, atuei como advogado criminalista desde a minha formação, em 2019. </p>
@@ -17,7 +17,12 @@
 
 
 
-<h2 align="right" id="heading-skills"> Skills </h2> 
+<h1 align="right" id="heading-skills"> Skills </h1> 
+
+<h3 align="center"> Ruby | Javascript | Ruby on Rails | React | HTML | CSS | Bootstrap | MySQL | PostgreSQL  </h3>
+<h4 align="center"> OOP | RESTful APIs | Git | Github | Heroku </h4>
+<h5 align="center"> Office | Trello | Figma | Scrum | Kanban </h5>
+
 
   <ul>
   <li> Linguagens: </li>
