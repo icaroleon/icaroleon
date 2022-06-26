@@ -19,55 +19,34 @@
 
 <h1 align="right" id="heading-skills"> Skills </h1> 
 
-<h3 align="center"> Ruby | Javascript | Ruby on Rails | React | HTML | CSS | Bootstrap | MySQL | PostgreSQL  </h3>
-<h4 align="center"> OOP | RESTful APIs | Git | Github | Heroku </h4>
-<h5 align="center"> Office | Trello | Figma | Scrum | Kanban </h5>
+  <h3 align="center"> Ruby | Javascript | Ruby on Rails | React | HTML | CSS | Bootstrap | MySQL | PostgreSQL  </h3>
+  <h4 align="center"> OOP | RESTful APIs | Git | Github | Heroku </h4>
+  <h5 align="center"> Office | Trello | Figma | Scrum | Kanban </h5>
 
 
-  <ul>
-  <li> Linguagens: </li>
+<h1 align="right" id="heading-projetos"> Projetos </h1> 
+<ul>
+  <li><h3><a href="https://www.letsgo-social.com.br"> LetsGo </a></h3></li>
+    <br>
+    <p align="justify">Utilizando o framework Ruby on Rails, além de autenticações para usuários, APIs tais quais Mapbox (para o serviço de geolocalização), Cloudinary (para o upload de fotos), Websocket (para mensagens privadas entre usuários), além de nested comments (para viabilizar respostas aos posts principais de tal evento, respostas à tais respostas, e assim por diante), o “Lets Go” é um aplicativo web que se assemelha à uma rede social, possibilitando ao usuário anunciar eventos (públicos ou privados), confirmar presença, conversar com seus amigos, e comentar nos posts dos eventos divulgados. <a href="https://www.letsgo-social.com.br"> (Veja o código)</a> <p>
+  
+  <li><h3><a href="https://rent-for-all.herokuapp.com"> Rent for All </a></h3></li>
+    <br>
+    <p align="justify">Com enfoque no framework Ruby on Rails, pensando na necessidade de se alugar itens de maneira pontual, elaboramos o  marketplace “Rent for All”, serviço que possibilita a busca e anúncio de itens que se deseja alugar.
+ <a href="https://www.letsgo-social.com.br"> (Veja o código)</a> <p>
+  
+   <li><h3><a href="#"> Watchlist </a></h3></li>
+    <br>
+    <p align="justify">Primeiro projeto produzido no bootcamp da Le Wagon. Permite o usuário adicionar filmes da API “The Movie Database” à listas de seu interesse e elaborar reviews sobre tais produções.
+ <a href="https://www.letsgo-social.com.br"> (Veja o código)</a> <p>
+  
+  
     <ul>
-      <li> Ruby </li>
-      <li> Javascript </li>
+      
     </ul>
   </ul>
 
 
-
-
-
-<h2 align="right" id="heading-projetos"> Projetos </h2> 
-<h2 align="right" id="heading-educação"> Educação </h2> 
-<h2 align="right" id="heading-experiência"> Experiência </h2> 
-
-
-<a href="#1-this-is-my-header" align="left"> teste </a>
-<br>
-<a href="#linguages" align="right"> teste </a>
-<h3> Olá pessoal! 👋</h3>
-<br>
- <p align="right"> teste <p>
-Meu nome é Ícaro Leon, Full-Stack Web Developer!
-
-
-
-
-</p>
-<h2 align="right" id="linguages"> teste </h2>
-<p align="left">
-  🦄 Linguagens: 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-
-</p>
 
 <p align="left">
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
