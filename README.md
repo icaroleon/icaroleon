@@ -2,8 +2,7 @@
   <a href="#heading-sobre">| Sobre |</a>
   <a href="#heading-skills"> Skills |</a>
   <a href="#heading-projetos"> Projetos |</a>
-  <a href="#heading-educação">Educação |</a>
-  <a href="#heading-experiência">Experiência |</a>
+  <a href="#heading-contato"> Contato |</a>
 </p>
 
 
@@ -13,6 +12,7 @@
   <p align="justify"> Formado em Direito e nascido em Minas Gerais, atuei como advogado criminalista desde a minha formação, em 2019. </p>
   <p align="justify"> Após diversos projetos voluntários realizados e ter feito parte de escritórios tanto em Minas Gerais quanto no Rio de Janeiro, <strong> em 2022 </strong>, dei voz à minha antiga paixão pela tecnologia e<strong> resolvi transacionar de carreira, concluindo  o bootcamp de desenvolvimento web da Le Wagon</strong>, momento no qual tive contato com diversas linguagens, conceitos, funcionalidades, e desafios, dessa nova área. </p>
   <p align="justify"> Nesse momento, procuro uma oportunidade profissional tanto para colocar em prática tais ensinamentos, quanto para ter contato com o ambiente de criação de produtos digitais. </p>
+  <p align="justify"> Gostou da minha história? <a href="#heading-contato"> Entre em contato! </a></p>
 </div>
 
 
@@ -41,3 +41,4 @@
     <a href="https://www.letsgo-social.com.br"> (Veja o código)</a> <p>
 </ul>
 
+<h1 align="right" id="heading-contato"> Contato </h1> 
