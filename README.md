@@ -28,12 +28,12 @@
 <ul>
   <li><h3><a href="https://www.letsgo-social.com.br"> LetsGo </a></h3></li>
     <br>
-    <p align="justify">Utilizando o framework Ruby on Rails, além de autenticações para usuários, APIs tais quais Mapbox (para o serviço de geolocalização), Cloudinary (para o upload de fotos), Websocket (para mensagens privadas entre usuários), além de nested comments (para viabilizar respostas aos posts principais de tal evento, respostas à tais respostas, e assim por diante), o “Lets Go” é um aplicativo web que se assemelha à uma rede social, possibilitando ao usuário anunciar eventos (públicos ou privados), confirmar presença, conversar com seus amigos, e comentar nos posts dos eventos divulgados. <a href="https://www.letsgo-social.com.br"> (Veja o código)</a> <p>
+    <p align="justify">Utilizando o framework Ruby on Rails, além de autenticações para usuários, APIs tais quais Mapbox (para o serviço de geolocalização), Cloudinary (para o upload de fotos), Websocket (para mensagens privadas entre usuários), além de nested comments (para viabilizar respostas aos posts principais de tal evento, respostas à tais respostas, e assim por diante), o “Lets Go” é um aplicativo web que se assemelha à uma rede social, possibilitando ao usuário anunciar eventos (públicos ou privados), confirmar presença, conversar com seus amigos, e comentar nos posts dos eventos divulgados. <a href="https://github.com/lucca1998byu/letsgo"> (Veja o código)</a> <p>
   
   <li><h3><a href="https://rent-for-all.herokuapp.com"> Rent for All </a></h3></li>
     <br>
     <p align="justify">Com enfoque no framework Ruby on Rails, pensando na necessidade de se alugar itens de maneira pontual, elaboramos o  marketplace “Rent for All”, serviço que possibilita a busca e anúncio de itens que se deseja alugar.
- <a href="https://www.letsgo-social.com.br"> (Veja o código)</a> <p>
+ <a href="https://github.com/gessicahug/rent_for_all"> (Veja o código)</a> <p>
   
    <li><h3><a href="#"> Watchlist </a></h3></li>
     <br>
