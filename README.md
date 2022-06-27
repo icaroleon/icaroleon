@@ -15,7 +15,7 @@
   <p align="justify"> Nesse momento, procuro uma oportunidade profissional tanto para colocar em prática tais ensinamentos, quanto para ter contato com o ambiente de criação de produtos digitais. </p>
   <p align="justify"> Gostou da minha história? <a href="#heading-contato"> Entre em contato! </a></p>
 </div>
-
+<br>
 <h1 align="center" id="heading-skills"> Skills </h1> 
 
   <h3 align="center"> Ruby | Javascript | Ruby on Rails | React | HTML | CSS | Bootstrap | MySQL | PostgreSQL  </h3>
