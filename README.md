@@ -16,7 +16,7 @@
   <p align="justify"> Gostou da minha história? <a href="#heading-contato"> Entre em contato! </a></p>
 </div>
 
-<h1 align="right" id="heading-skills"> Skills </h1> 
+<h1 align="center" id="heading-skills"> Skills </h1> 
 
   <h3 align="center"> Ruby | Javascript | Ruby on Rails | React | HTML | CSS | Bootstrap | MySQL | PostgreSQL  </h3>
   <h4 align="center"> OOP | RESTful APIs | Git | Github | Heroku </h4>
