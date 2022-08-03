@@ -42,8 +42,9 @@
 
 <h1 align="right" id="heading-contato"> Contato </h1> 
 
-  <h3 align="center"><a href = "mailto:icvieiramg@gmail.com"> Email </a> |
+  <h3 align="center"><a href="https://icaroleon.dev/"> Portfólio </a> |
   <a href="https://www.linkedin.com/in/icaroleon" target="_blank">Linkedin</a> |
-  <a href="https://icaroleon.dev/"> Portfólio </a></h3>
+  <a href = "mailto:icvieiramg@gmail.com"> Email </a> 
+  </h3>
           
           
