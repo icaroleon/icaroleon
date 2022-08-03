@@ -1,8 +1,8 @@
 <p align="right">
-  |<a href="#heading-sobre"> Sobre </a>|
-  <a href="#heading-skills"> Skills </a>|
-  <a href="#heading-projetos"> Projetos </a>|
-  <a href="#heading-contato"> Contato </a>|
+  |<a href="#heading-sobre"> Sobre</a> |
+  <a href="#heading-skills"> Skills</a> |
+  <a href="#heading-projetos"> Projetos</a> |
+  <a href="#heading-contato"> Contato</a> |
 </p>
 
 
