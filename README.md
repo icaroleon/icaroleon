@@ -30,6 +30,10 @@
 
 <h1 align="right" id="heading-projetos"> Projetos </h1> 
 <ul>
+  <li><h3><a href="https://icaroleon.dev" target="_blank"> Portfólio </a></h3></li>
+    <br>
+    <p align="justify">Sabendo da importância para futuras oportunidades profissionais, o portfólio foi idealizado no <a href="https://www.figma.com/file/oFcPji135OTxtGRWmgIJyA/Portf%C3%B3lio?node-id=0%3A1" target="_blank"> Figma</a>  desde o ínicio. Com intuito de criar uma marca pessoal, se assemelhando ao design do currículo, o primeiro projeto pessoal após Bootcamp da Le Wagon, além de contar com responsividade dos menores para os maiores dispositivos, também envolve funcionalidades construídas através do Javascript de forma a deixar o site mais dinâmico. As abas para navegação, a criação de uma página inicial com um pequeno resumo, além de outras funções, foram aplicadas objetivando a familiarização com a linguagem, tão importante no dia-a-dia de um desenvolvedor Full-Stack (Veja o código).</a> <p>
+
   <li><h3><a href="https://www.letsgo-social.com.br" target="_blank"> LetsGo </a></h3></li>
     <br>
     <p align="justify">Utilizando o framework Ruby on Rails, além de autenticações para usuários, APIs tais quais Mapbox (para o serviço de geolocalização), Cloudinary (para o upload de fotos), Websocket (para mensagens privadas entre usuários), além de nested comments (para viabilizar respostas aos posts principais de tal evento, respostas à tais respostas, e assim por diante), o “Lets Go” é um aplicativo web que se assemelha à uma rede social, possibilitando ao usuário anunciar eventos (públicos ou privados), confirmar presença, conversar com seus amigos, e comentar nos posts dos eventos divulgados. <a href="https://github.com/lucca1998byu/letsgo"> (Veja o código)</a> <p>
