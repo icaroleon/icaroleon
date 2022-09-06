@@ -11,7 +11,7 @@
     <a href = "mailto:icvieiramg@gmail.com"> Email </a> 
   </h3>
 
-<h1 align="right" id="heading-sobre"> Sobre </h1>
+<h1 align="left" id="heading-sobre"> Sobre </h1>
 <div>
  <img src="https://i.ibb.co/NLpDRCr/6358887-preview-rev-1-1.png" alt="icaroleon-law-to-code" align="right" height="350px" width="375px">
   <br>
