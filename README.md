@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="right" id="heading-contato"> Contato </h1> 
-  <h3 align="center"><a href="https://icaroleon.dev/" target="blank">Portfólio</a> |
+  <h3 align="left"><a href="https://icaroleon.dev/" target="blank">Portfólio</a> |
     <a href="https://www.linkedin.com/in/icaroleon" target="_blank">Linkedin</a> |
     <a href = "mailto:icvieiramg@gmail.com"> Email </a> 
   </h3>
@@ -18,7 +18,7 @@
   <p align="justify"> Formado em Direito e nascido em Minas Gerais, atuei como advogado criminalista desde a minha formação, em 2019. </p>
   <p align="justify"> Após diversos projetos voluntários realizados e ter feito parte de escritórios tanto em Minas Gerais quanto no Rio de Janeiro, <strong> em 2022 </strong> dei voz à minha antiga paixão pela tecnologia e<strong> resolvi transacionar de carreira, concluindo  o bootcamp de desenvolvimento web da <em> Le Wagon</strong></em>, momento no qual tive contato com diversas linguagens, conceitos, funcionalidades, e desafios dessa nova área. </p>
   <p align="justify"> Nesse momento, procuro uma oportunidade profissional tanto para colocar em prática tais ensinamentos, quanto para ter contato com o ambiente de criação de produtos digitais. </p>
-  <p align="justify"> Gostou da minha história? <a href="https://icaroleon.dev/"> Veja meu portfólio! </a></p>
+  <p align="justify"> Gostou da minha história? <a href="https://icaroleon.dev/"> Saiba mais! </a></p>
 </div>
 <br>
 <h1 align="center" id="heading-skills"> Skills </h1> 
