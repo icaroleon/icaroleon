@@ -6,12 +6,12 @@
 </p>
 
 <h1 align="right" id="heading-contato"> Contato </h1> 
-  <h3 align="left"><a href="https://icaroleon.dev/" target="blank">Portfólio</a> |
+  <h3 align="right"><a href="https://icaroleon.dev/" target="blank">Portfólio</a> |
     <a href="https://www.linkedin.com/in/icaroleon" target="_blank">Linkedin</a> |
     <a href = "mailto:icvieiramg@gmail.com"> Email </a> 
   </h3>
 
-<h1 align="left" id="heading-sobre"> Sobre </h1>
+<h1 align="right" id="heading-sobre"> Sobre </h1>
 <div>
  <img src="https://i.ibb.co/NLpDRCr/6358887-preview-rev-1-1.png" alt="icaroleon-law-to-code" align="right" height="350px" width="375px">
   <br>
