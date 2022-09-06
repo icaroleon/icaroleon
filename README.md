@@ -1,10 +1,15 @@
 <p align="right">
-  | <a href="#heading-sobre">Sobre</a> |
+  |<a href="#heading-contato"> Contato</a> 
+  |<a href="#heading-sobre">Sobre</a> |
   <a href="#heading-skills"> Skills</a> |
   <a href="#heading-projetos"> Projetos</a> |
-  <a href="#heading-contato"> Contato</a> |
 </p>
 
+<h1 align="right" id="heading-contato"> Contato </h1> 
+  <h3 align="center"><a href="https://icaroleon.dev/" target="blank">Portfólio</a> |
+    <a href="https://www.linkedin.com/in/icaroleon" target="_blank">Linkedin</a> |
+    <a href = "mailto:icvieiramg@gmail.com"> Email </a> 
+  </h3>
 
 <h1 align="left" id="heading-sobre"> Sobre </h1>
 <div>
@@ -40,11 +45,6 @@
     <a href="https://www.letsgo-social.com.br"> (Veja o código)</a> <p>
 </ul>
 
-<h1 align="right" id="heading-contato"> Contato </h1> 
 
-  <h3 align="center"><a href="https://icaroleon.dev/" target="blank">Portfólio</a> |
-  <a href="https://www.linkedin.com/in/icaroleon" target="_blank">Linkedin</a> |
-  <a href = "mailto:icvieiramg@gmail.com"> Email </a> 
-  </h3>
           
           
