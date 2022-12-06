@@ -30,7 +30,7 @@
       <p align="justify">Com enfoque no framework Ruby on Rails, pensando na necessidade de se alugar itens de maneira pontual, elaboramos o marketplace Rent For All, serviço que possibilita a busca, anúncio e aluguel de artigos. Para tanto, utilizamos a API Cloudinary para o armazenamento de fotos dos itens anunciados, além da Gem de autorização Pundit, que possibilitou políticas de acesso diferentes para cada usuário. <a href="https://github.com/gessicahug/rent_for_all">(Veja o código)</a> <p>
   <br>
      <li><h3><a href="https://watchlist-bootcamp-project.herokuapp.com"> Watchlist </a></h3></li>
-      <p align="justify">Primeiro projeto produzido no bootcamp da Le Wagon, sido essencial para se familizar com CRUD. Permite o usuário adicionar filmes da API “The Movie Database” à listas de seu interesse e elaborar reviews sobre tais produções. <a href="https://www.letsgo-social.com.br">(Veja o código)</a><p>
+      <p align="justify">Primeiro projeto produzido no bootcamp da Le Wagon, sido essencial para se familizar com CRUD. Permite o usuário adicionar filmes da API “The Movie Database” à listas de seu interesse e elaborar reviews sobre tais produções. <a href="https://github.com/icaroleon/rails-watch-list">(Veja o código)</a><p>
   </ul>
   <h1 align="center" id="heading-contato"> Contato </h1> 
     <h3 align="center"><a href = "mailto:icvieiramg@gmail.com"> Email </a>
