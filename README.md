@@ -6,7 +6,7 @@
   </p>
   <h1 align="left" id="heading-sobre"> Sobre </h1>
   <div>
-   <img src="https://i.ibb.co/NLpDRCr/6358887-preview-rev-1-1.png" alt="icaroleon-law-to-code" align="right" height="350px" width="375px">
+   <img src="https://i.ibb.co/NLpDRCr/6358887-preview-rev-1-1.png" alt="icaroleon-law-to-code" align="right" height="325px" width="350px">
     <br>
     <p align="justify"> Formado em Direito e nascido em Minas Gerais, atuei como advogado criminalista desde a minha formação, em 2019. </p>
     <p align="justify"> Em 2022 , após diversos projetos voluntários realizados e ter feito parte de escritórios tanto em Minas Gerais quanto no Rio de Janeiro, dei voz à minha antiga paixão pela tecnologia e resolvi transacionar de área, concluindo o <strong><i>Bootcamp de Web Development da Le Wagon </i></strong>, momento no qual tive contato com diversos conceitos, funcionalidades, linguagens <strong>(com enfoque em Ruby on Rails)</strong> e desafios dessa nova carreira. Para complementar e aprofundar ainda mais os estudos, também <strong>iniciei, no presente ano, uma nova graduação em Análise e Desenvolvimento de Sistemas </strong>. 
