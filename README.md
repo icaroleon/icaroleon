@@ -36,9 +36,9 @@
      <li><h3><a href="https://watchlist-bootcamp-project.herokuapp.com"> Watchlist </a></h3></li>
       <p align="justify">Primeiro projeto produzido no bootcamp da Le Wagon, sido essencial para se familizar com CRUD. Permite o usuário adicionar filmes da API “The Movie Database” à listas de seu interesse e elaborar reviews sobre tais produções. <a href="https://github.com/icaroleon/rails-watch-list">(Veja o código)</a><p>
   </ul>
-  <h1 align="center" id="heading-contato"> Contato </h1> 
-    <h3 align="center"><a href = "mailto:icvieiramg@gmail.com"> Email </a>
-  | <a href="https://www.linkedin.com/in/icaroleon" target="_blank">Linkedin</a> 
+  <h1 align="center" id="heading-contato"> Contato</h1> 
+    <h3 align="center"><a href = "mailto:icvieiramg@gmail.com"> Email</a>
+   | <a href="https://www.linkedin.com/in/icaroleon" target="_blank">Linkedin</a> 
     </h3>
   
             
