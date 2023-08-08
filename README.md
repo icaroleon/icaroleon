@@ -1,6 +1,5 @@
 <p align="right">
     <a href="#heading-sobre"> Sobre</a> |
-    <a href="#heading-skills"> Skills</a> |
     <a href="#heading-projetos"> Projetos</a> |
     <a href="#heading-contato"> Links</a> 
   </p>
@@ -11,7 +10,6 @@
     <p align="justify"> Atualmente, possuo habilidades em Salesforce, Ruby, Ruby on Rails, Java,  Javascript, React, HTML, CSS, Bootstrap, MySQL, PostgreSQL, OOP, RESTful APIs, Git, Github, Heroku, Office, Trello, Figma, Scrum e Kanban. </p>
     <p align="justify"> Gostou da minha história? <a href="https://icaroleon.dev/"><strong>Veja meu portfólio! </strong></a></p>
   </div>
-  <br>
   <h1 align="left" id="heading-projetos"> Projetos </h1> 
   <ul>
     <li><h3><a href="https://icaroleon.dev" target="_blank"> Movies API </a></h3></li>
