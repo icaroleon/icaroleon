@@ -5,7 +5,7 @@
   </p>
   <h1 align="left" id="heading-sobre"> Sobre </h1>
   <div>
-    <p align="justify"> FFormado em Direito, atuei como advogado criminalista, adquirindo habilidades fundamentais como análise crítica e estratégica, colaboração em equipe, adaptação, comunicação, reunião com clientes. Movido por minha paixão pela tecnologia, iniciei uma transição de carreira. Durante este período, me dediquei a diversos cursos, iniciei a graduação em Análise e Desenvolvimento de Sistemas e me especializei no ecossistema Salesforce. </p>
+    <p align="justify"> Formado em Direito, atuei como advogado criminalista, adquirindo habilidades fundamentais como análise crítica e estratégica, colaboração em equipe, adaptação, comunicação, reunião com clientes. Movido por minha paixão pela tecnologia, iniciei uma transição de carreira. Durante este período, me dediquei a diversos cursos, iniciei a graduação em Análise e Desenvolvimento de Sistemas e me especializei no ecossistema Salesforce. </p>
     <p align="justify"> Neste momento, atuo com Desenvolvedor Salesforce, integrando minha experiência profissional com as habilidades técnicas adquiridas. Tenho competência em uma variedade de linguagens e ferramentas, como Apex, LWC, SOQL, SOSL, Triggers, Flows, Java, Ruby, HTML, CSS, JavaScript, RESTful APIs, Git, Scrum, Kanban, entre outros. </p>
     <p align="justify"> Gostou da minha história? Veja meu meu perfil no <a href="https://www.salesforce.com/trailblazer/icaroleon"><strong> Trailblazer</a> ou meu <a href="https://www.icaroleon.dev"><strong> Portfólio</strong></a>!</p>
   </div>
